@@ -1,0 +1,37 @@
+     TEAMS                         % WINS
+Atlanta Hawks                       52.4
+Boston Celtics                      62.2
+Brooklyn Nets                       53.7
+Charlotte Hornets                   52.4
+Chicago Bulls                       56.1
+Cleveland Cavaliers                 53.7
+Dallas Mavericks                    63.4
+Denver Nuggets                      58.5
+Detroit Pistons                     28.0
+Golden State Warriors               64.6
+Houston Rockets                     24.4
+Indiana Pacers                      30.5
+LA Clippers                         51.2
+Los Angeles Lakers                  40.2
+Memphis Grizzlies                   68.3
+Miami Heat                          64.6
+Milwaukee Bucks                     62.2
+Minnesota Timberwolves              56.1
+New Orleans Pelicans                43.9
+New York Knicks                     45.1
+Oklahoma City Thunder               29.3
+Orlando Magic                       26.8
+Philadelphia 76ers                  62.2
+Phoenix Suns                        78.0
+Portland Trail Blazers              32.9
+Sacramento Kings                    36.6
+San Antonio Spurs                   41.5
+Toronto Raptors                     58.5
+Utah Jazz                           59.8
+Washington Wizards                  42.7
+
+TOTAL NUMBER OF TEAMS      30
+
+Programmed By: Natalie Poist
+Lab 6 - NBA Stats
+npoistcollege@gmail.com

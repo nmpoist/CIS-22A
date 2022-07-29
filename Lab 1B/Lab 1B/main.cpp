@@ -11,7 +11,8 @@ using namespace std; //shortens commands by adding std to the start of each line
 int main() //creates the function
 {
     //declare variables as doubles, so that each can have decimal point values
-    double pennies, nickels, dimes, quarters, dollars;
+    int pennies, nickels, dimes, quarters;
+    double dollars;
     
     //input the # of pennies, nickels, dimes, and quarters
     cout << "Enter number of pennies: "; //prints a prompt line
