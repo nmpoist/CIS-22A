@@ -13,7 +13,7 @@
 using namespace std;
 
 //prototype
-void winPercentage(float wins, float losses, string teamName, float& winPercent);
+void winPercentage(float wins, float losses, float& winPercent);
 
 int main() {
     int count = 0; //initializes count variable
@@ -53,7 +53,7 @@ int main() {
         
         teamName.erase(0,1); // removes the first character of the string (the extra tab)
         
-        winPercentage(wins, losses, teamName, winPercent); //calls calculation function with file and count
+        winPercentage(wins, losses, winPercent); //calls calculation function with file and count
         
         count ++;
         
@@ -80,7 +80,7 @@ int main() {
     return 0;
 }
 
-void winPercentage(float wins, float losses, string teamName, float& winPercent) {
+void winPercentage(float wins, float losses, float& winPercent) {
     /* Pre: wins - number of wins from file input
      losses - number of losses from file input
      teamName - full name of team

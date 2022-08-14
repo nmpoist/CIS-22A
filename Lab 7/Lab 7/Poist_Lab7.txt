@@ -1,0 +1,64 @@
+TEAM                     % 3-pt field goals  avg free throws/game          % wins              
+Atlanta Hawks                  37.4                18.1                     52.4
+Boston Celtics                 35.6                17.0                     62.2
+Brooklyn Nets                  36.1                17.5                     53.7
+Charlotte Hornets              36.5                15.8                     52.4
+Chicago Bulls                  36.9                17.5                     56.1
+Cleveland Cavaliers            35.5                16.8                     53.7
+Dallas Mavericks               35.0                16.4                     63.4
+Denver Nuggets                 35.3                16.7                     58.5
+Detroit Pistons                32.6                17.2                     28.0
+Golden State Warriors          36.4                15.6                     64.6
+Houston Rockets                34.9                17.5                     24.4
+Indiana Pacers                 34.4                16.4                     30.5
+LA Clippers                    37.4                15.5                     51.2
+Los Angeles Lakers             34.7                16.8                     40.2
+Memphis Grizzlies              35.3                17.0                     68.3
+Miami Heat                     37.9                17.3                     64.6
+Milwaukee Bucks                36.6                17.8                     62.2
+Minnesota Timberwolves         35.8                18.0                     56.1
+New Orleans Pelicans           33.2                18.3                     43.9
+New York Knicks                35.7                18.0                     45.1
+Oklahoma City Thunder          32.3                15.0                     29.3
+Orlando Magic                  33.1                15.5                     26.8
+Philadelphia 76ers             36.4                19.6                     62.2
+Phoenix Suns                   36.4                15.9                     78.0
+Portland Trail Blazers         34.6                16.4                     32.9
+Sacramento Kings               34.4                17.9                     36.6
+San Antonio Spurs              35.2                15.4                     41.5
+Toronto Raptors                34.9                16.2                     58.5
+Utah Jazz                      36.0                17.9                     59.8
+Washington Wizards             34.2                17.0                     42.7
+Groups with percentage of wins above 100.0
+No group with percentage of wins above 100.0
+TEAM                     % 3-pt field goals  avg free throws/game          % wins              
+Miami Heat                     37.9                17.3                     64.6
+LA Clippers                    37.4                15.5                     51.2
+Atlanta Hawks                  37.4                18.1                     52.4
+Chicago Bulls                  36.9                17.5                     56.1
+Milwaukee Bucks                36.6                17.8                     62.2
+Charlotte Hornets              36.5                15.8                     52.4
+Golden State Warriors          36.4                15.6                     64.6
+Philadelphia 76ers             36.4                19.6                     62.2
+Phoenix Suns                   36.4                15.9                     78.0
+Brooklyn Nets                  36.1                17.5                     53.7
+Utah Jazz                      36.0                17.9                     59.8
+Minnesota Timberwolves         35.8                18.0                     56.1
+New York Knicks                35.7                18.0                     45.1
+Boston Celtics                 35.6                17.0                     62.2
+Cleveland Cavaliers            35.5                16.8                     53.7
+Memphis Grizzlies              35.3                17.0                     68.3
+Denver Nuggets                 35.3                16.7                     58.5
+San Antonio Spurs              35.2                15.4                     41.5
+Dallas Mavericks               35.0                16.4                     63.4
+Toronto Raptors                34.9                16.2                     58.5
+Houston Rockets                34.9                17.5                     24.4
+Los Angeles Lakers             34.7                16.8                     40.2
+Portland Trail Blazers         34.6                16.4                     32.9
+Sacramento Kings               34.4                17.9                     36.6
+Indiana Pacers                 34.4                16.4                     30.5
+Washington Wizards             34.2                17.0                     42.7
+New Orleans Pelicans           33.2                18.3                     43.9
+Orlando Magic                  33.1                15.5                     26.8
+Detroit Pistons                32.6                17.2                     28.0
+Oklahoma City Thunder          32.3                15.0                     29.3
